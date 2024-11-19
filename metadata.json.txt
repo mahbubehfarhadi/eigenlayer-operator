@@ -1,0 +1,7 @@
+{
+  "name": "mynubit",
+  "website": "https://github.com/mahbubehfarhadi",
+  "description": "This is my operator for the Holesky network.",
+  "logo": "https://github.com/mahbubehfarhadi",
+  "twitter": "https://x.com/mahbubehfa37281"
+}
